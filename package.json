@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/giovannipds/hello-mocha/issues"
   },
-  "homepage": "https://github.com/giovannipds/hello-mocha#readme"
+  "homepage": "https://github.com/giovannipds/hello-mocha#readme",
+  "devDependencies": {
+    "mocha": "^8.4.0"
+  }
 }
