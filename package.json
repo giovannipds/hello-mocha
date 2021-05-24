@@ -1,0 +1,20 @@
+{
+  "name": "hello-mocha",
+  "version": "1.0.0",
+  "description": "Getting started with Mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Giovanni Pires <gpires@ebay.com> (http://linktr.ee/giovannipds)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovannipds/hello-mocha.git"
+  },
+  "bugs": {
+    "url": "https://github.com/giovannipds/hello-mocha/issues"
+  },
+  "homepage": "https://github.com/giovannipds/hello-mocha#readme"
+}
